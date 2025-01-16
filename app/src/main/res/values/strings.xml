@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChickCheck+</string>
+    <string name="default_web_client_id">tIstPDrOnwD7HVz813z0jvnjzfP0</string>
+    <string name="register_text">Don’t Have Any Account?</string>
 </resources>
